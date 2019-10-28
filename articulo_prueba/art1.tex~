@@ -1,0 +1,43 @@
+\documentclass[a4paper,11pt]{article} % es un articulo
+\usepackage[T1]{fontenc} %familia de tipografias
+\usepackage[utf8]{inputenc} % utf8 para poder usar acentos
+\usepackage{lmodern} % tipografia  
+\usepackage[spanish]{babel} % palabras claves y silabación 
+\usepackage{listings} % para agregar coloreado al codigo fuente
+% para la bibliografia
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{apacite} %normas APA
+\usepackage{natbib} % para poder citar correctamente en apa usamos esta libreria de citas
+\usepackage[hidelinks]{hyperref} % solo para generar pdfs enriquecidos con hiper vinculos a las referencias
+\bibliographystyle{apalike}% estilo de la bibliografía.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%datos del titulo y autor
+\title{soy un texto de prueba}
+\author{Valentín Basel}
+
+\begin{document}
+
+\maketitle
+
+
+\begin{abstract}
+Mollis. Vehicula odio suscipit cubilia, ut facilisis vitae. Et platea per, lectus, massa. Eu pellentesque conubia, eros sociosqu vehicula nonummy mollis nullam dolor tortor ullamcorper. Lacinia quis, pede netus taciti eu natoque arcu, sollicitudin. Elit dolor habitasse imperdiet lacus orci. Metus. Semper, quam egestas amet, ad eget placerat aptent, velit. Felis suspendisse id lectus leo taciti, non vestibulum ve, enim augue euismod proin parturient habitant amet sed integer. Erat senectus placerat augue litora. Dolor curae, nostra et eget vehicula dolor at. Elementum felis dictumst at, condimentum diam, mauris, ante. Nonummy.
+\end{abstract}
+
+Palabras claves: prueba, latex
+
+\section{Introducción}
+
+Rutrum per, eget consectetuer ut neque   nec quis, urna \citet{john_iovine_robots_2002} at per porttitor morbi. Est metus mollis tortor cras mi. Ullamcorper. Conubia. Faucibus leo, mi. Nulla in etiam sit purus varius turpis sem posuere. Dapibus ullamcorper erat pede, amet curabitur sem nec commodo sit, id placerat. Semper nonummy ac, augue vulputate laoreet mollis non at erat. Amet. Hac justo leo felis congue fringilla ligula a posuere magnis. Orci, integer eu, quam fames inceptos, nam. Ad montes ve diam ve eget etiam.
+
+Tempus. Ultrices risus. Ad. Urna, tincidunt rutrum dui  cursus fusce sem. Posuere curae nisl, class. Semper quis, pellentesque maecenas justo augue primis est, \citep{eric_s._raymond_catedral_1998,karl_fogel_producir_2005} aenean aptent lorem. Pellentesque vestibulum ante ornare venenatis nonummy lacus. At pharetra \citep{garrido__2009}  nunc facilisi maecenas vitae elementum. Varius dictum, proin parturient viverra urna et. Nec. Justo porta praesent parturient dapibus duis pharetra. Consequat quis \citep[pp 4]{sadosky2013cc} primis vivamus platea ante cras phasellus et ligula aliquam aliquet. Malesuada donec dolor aenean sociis hac nibh eros pede \citep{builes_collaborative_2011}
+
+
+
+
+\bibliography{biblioteca/artbib}
+
+
+\end{document}
