@@ -1,4 +1,4 @@
-PWD /home/vbasel/Presentaciones/charla_latex/presentacion_latex
+PWD /home/vbasel/Presentaciones/taller_latex/presentacion_latex
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /home/vbasel/.texlive2017/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -350,6 +350,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmss
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi8.tfm
+INPUT img/bysa.png
+INPUT ./img/bysa.png
+INPUT ./img/bysa.png
 INPUT /usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map
 INPUT img/fleco_y_male_latex.png
 INPUT ./img/fleco_y_male_latex.png

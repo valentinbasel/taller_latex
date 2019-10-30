@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.7.23)  28 OCT 2019 16:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.7.23)  30 OCT 2019 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1342,18 +1342,24 @@ line 109.
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
+<img/bysa.png, id=20, 268.1217pt x 93.7101pt>
+File: img/bysa.png Graphic file (type png)
+ <use img/bysa.png>
+Package pdftex.def Info: img/bysa.png used on input line 117.
+(pdftex.def)             Requested size: 136.91603pt x 47.85443pt.
+
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 114.
+(Font)              size <5> substituted on input line 117.
 
 [1
 
-{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
-<img/fleco_y_male_latex.png, id=53, 791.95876pt x 551.81157pt>
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./img/bysa.
+png>] <img/fleco_y_male_latex.png, id=56, 791.95876pt x 551.81157pt>
 File: img/fleco_y_male_latex.png Graphic file (type png)
 
 <use img/fleco_y_male_latex.png>
-Package pdftex.def Info: img/fleco_y_male_latex.png used on input line 123.
+Package pdftex.def Info: img/fleco_y_male_latex.png used on input line 126.
 (pdftex.def)             Requested size: 273.83728pt x 190.80461pt.
  [2
 
@@ -1364,21 +1370,21 @@ Package pdftex.def Info: img/fleco_y_male_latex.png used on input line 123.
 
 ] [5
 
-] <img/libreoffice.jpg, id=164, 2244.385pt x 1174.3875pt>
+] <img/libreoffice.jpg, id=166, 2244.385pt x 1174.3875pt>
 File: img/libreoffice.jpg Graphic file (type jpg)
 
 <use img/libreoffice.jpg>
-Package pdftex.def Info: img/libreoffice.jpg used on input line 158.
+Package pdftex.def Info: img/libreoffice.jpg used on input line 161.
 (pdftex.def)             Requested size: 273.83728pt x 143.28581pt.
  [6
 
  <./img/libreoffice.jpg>] [7
 
 ]
-<img/latex1.png, id=218, 1062.97125pt x 593.96906pt>
+<img/latex1.png, id=220, 1062.97125pt x 593.96906pt>
 File: img/latex1.png Graphic file (type png)
  <use img/latex1.png>
-Package pdftex.def Info: img/latex1.png used on input line 174.
+Package pdftex.def Info: img/latex1.png used on input line 177.
 (pdftex.def)             Requested size: 273.83728pt x 153.01445pt.
 
 [8
@@ -1388,14 +1394,14 @@ Package pdftex.def Info: img/latex1.png used on input line 174.
 ] [10
 
 ]
-<img/alba_latex_final.png, id=298, 752.8125pt x 752.8125pt>
+<img/alba_latex_final.png, id=300, 752.8125pt x 752.8125pt>
 File: img/alba_latex_final.png Graphic file (type png)
 
 <use img/alba_latex_final.png>
-Package pdftex.def Info: img/alba_latex_final.png used on input line 208.
+Package pdftex.def Info: img/alba_latex_final.png used on input line 211.
 (pdftex.def)             Requested size: 273.83728pt x 273.83809pt.
 
-Overfull \vbox (56.7675pt too high) detected at line 208
+Overfull \vbox (56.7675pt too high) detected at line 211
  []
 
 [11
@@ -1403,77 +1409,77 @@ Overfull \vbox (56.7675pt too high) detected at line 208
  <./img/alba_latex_final.png>] [12
 
 ]
-<img/miktex.png, id=353, 1265.72874pt x 773.89125pt>
+<img/miktex.png, id=355, 1265.72874pt x 773.89125pt>
 File: img/miktex.png Graphic file (type png)
  <use img/miktex.png>
-Package pdftex.def Info: img/miktex.png used on input line 233.
+Package pdftex.def Info: img/miktex.png used on input line 236.
 (pdftex.def)             Requested size: 273.83728pt x 167.42253pt.
 
 [13
 
- <./img/miktex.png>] <img/texstudio.png, id=382, 652.4375pt x 388.45125pt>
+ <./img/miktex.png>] <img/texstudio.png, id=384, 652.4375pt x 388.45125pt>
 File: img/texstudio.png Graphic file (type png)
 
 <use img/texstudio.png>
-Package pdftex.def Info: img/texstudio.png used on input line 242.
+Package pdftex.def Info: img/texstudio.png used on input line 245.
 (pdftex.def)             Requested size: 273.83728pt x 163.04172pt.
  [14
 
  <./img/texstudio.png>]
-<img/texmaker.png, id=410, 636.25941pt x 387.56558pt>
+<img/texmaker.png, id=412, 636.25941pt x 387.56558pt>
 File: img/texmaker.png Graphic file (type png)
  <use img/texmaker.png>
-Package pdftex.def Info: img/texmaker.png used on input line 250.
+Package pdftex.def Info: img/texmaker.png used on input line 253.
 (pdftex.def)             Requested size: 273.83728pt x 166.80371pt.
 
 [15
 
  <./img/texmaker.png>]
-<img/latex1_texto.png, id=438, 422.57875pt x 294.09875pt>
+<img/latex1_texto.png, id=440, 422.57875pt x 294.09875pt>
 File: img/latex1_texto.png Graphic file (type png)
 
 <use img/latex1_texto.png>
-Package pdftex.def Info: img/latex1_texto.png used on input line 257.
+Package pdftex.def Info: img/latex1_texto.png used on input line 260.
 (pdftex.def)             Requested size: 273.83728pt x 190.58301pt.
  [16
 
  <./img/latex1_texto.png>]
-<img/instruccion.png, id=466, 469.755pt x 158.09062pt>
+<img/instruccion.png, id=468, 469.755pt x 158.09062pt>
 File: img/instruccion.png Graphic file (type png)
 
 <use img/instruccion.png>
-Package pdftex.def Info: img/instruccion.png used on input line 265.
+Package pdftex.def Info: img/instruccion.png used on input line 268.
 (pdftex.def)             Requested size: 273.83728pt x 92.15576pt.
  [17
 
  <./img/instruccion.png>]
-<img/instruccion2.png, id=494, 469.755pt x 158.09062pt>
+<img/instruccion2.png, id=496, 469.755pt x 158.09062pt>
 File: img/instruccion2.png Graphic file (type png)
 
 <use img/instruccion2.png>
-Package pdftex.def Info: img/instruccion2.png used on input line 272.
+Package pdftex.def Info: img/instruccion2.png used on input line 275.
 (pdftex.def)             Requested size: 273.83728pt x 92.15576pt.
  [18
 
  <./img/instruccion2.png>]
-<img/instruccion3.png, id=522, 469.755pt x 158.09062pt>
+<img/instruccion3.png, id=524, 469.755pt x 158.09062pt>
 File: img/instruccion3.png Graphic file (type png)
 
 <use img/instruccion3.png>
-Package pdftex.def Info: img/instruccion3.png used on input line 280.
+Package pdftex.def Info: img/instruccion3.png used on input line 283.
 (pdftex.def)             Requested size: 273.83728pt x 92.15576pt.
  [19
 
  <./img/instruccion3.png>]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 289.
+(Font)              using `OT1/cmss/bx/n' instead on input line 292.
 
-<img/instruccion4.png, id=551, 469.755pt x 158.09062pt>
+<img/instruccion4.png, id=553, 469.755pt x 158.09062pt>
 File: img/instruccion4.png Graphic file (type png)
 
 <use img/instruccion4.png>
-Package pdftex.def Info: img/instruccion4.png used on input line 289.
+Package pdftex.def Info: img/instruccion4.png used on input line 292.
 (pdftex.def)             Requested size: 273.83728pt x 92.15576pt.
  [20
 
@@ -1494,13 +1500,13 @@ Package pdftex.def Info: img/instruccion4.png used on input line 289.
  (./main.vrb) [23
 
 ]
-<img/apa1.png, id=661, 376.40625pt x 315.42844pt>
+<img/apa1.png, id=663, 376.40625pt x 315.42844pt>
 File: img/apa1.png Graphic file (type png)
  <use img/apa1.png>
-Package pdftex.def Info: img/apa1.png used on input line 351.
+Package pdftex.def Info: img/apa1.png used on input line 354.
 (pdftex.def)             Requested size: 273.83728pt x 229.49075pt.
 
-Overfull \vbox (12.42017pt too high) detected at line 351
+Overfull \vbox (12.42017pt too high) detected at line 354
  []
 
 [24
@@ -1518,10 +1524,10 @@ Overfull \vbox (12.42017pt too high) detected at line 351
  (./main.vrb) [27
 
 ]
-<img/apa2.jpg, id=769, 475.7775pt x 536.0025pt>
+<img/apa2.jpg, id=771, 475.7775pt x 536.0025pt>
 File: img/apa2.jpg Graphic file (type jpg)
  <use img/apa2.jpg>
-Package pdftex.def Info: img/apa2.jpg used on input line 405.
+Package pdftex.def Info: img/apa2.jpg used on input line 408.
 (pdftex.def)             Requested size: 136.91603pt x 154.24265pt.
  [28
 
@@ -1533,11 +1539,11 @@ Package pdftex.def Info: img/apa2.jpg used on input line 405.
 ] [30
 
 ]
-<img/referencias.png, id=849, 816.04875pt x 520.94624pt>
+<img/referencias.png, id=851, 816.04875pt x 520.94624pt>
 File: img/referencias.png Graphic file (type png)
 
 <use img/referencias.png>
-Package pdftex.def Info: img/referencias.png used on input line 438.
+Package pdftex.def Info: img/referencias.png used on input line 441.
 (pdftex.def)             Requested size: 273.83728pt x 174.81416pt.
  [31
 
@@ -1556,15 +1562,15 @@ Package pdftex.def Info: img/referencias.png used on input line 438.
 \tf@snm=\write8
 \openout8 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 486.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 486.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 489.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 489.
 
 (./main.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 486.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 486.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 489.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 489.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1575,13 +1581,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 486.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 489.
  ) 
 Here is how much of TeX's memory you used:
- 21095 strings out of 494941
- 379932 string characters out of 6180918
+ 21100 strings out of 494941
+ 380007 string characters out of 6180918
  549573 words of memory out of 5000000
- 23822 multiletter control sequences out of 15000+600000
+ 23826 multiletter control sequences out of 15000+600000
  17345 words of font info for 64 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  56i,19n,69p,509b,2320s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1594,10 +1600,10 @@ st/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmtt8.pfb>
-Output written on main.pdf (32 pages, 3225220 bytes).
+Output written on main.pdf (32 pages, 3262961 bytes).
 PDF statistics:
- 948 PDF objects out of 1000 (max. 8388607)
+ 950 PDF objects out of 1000 (max. 8388607)
  860 compressed objects within 9 object streams
  65 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 147 words of extra memory for PDF output out of 10000 (max. 10000000)
 

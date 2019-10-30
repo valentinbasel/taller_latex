@@ -34,7 +34,13 @@ Rutrum per, eget consectetuer ut neque   nec quis, urna \citet{john_iovine_robot
 
 Tempus. Ultrices risus. Ad. Urna, tincidunt rutrum dui  cursus fusce sem. Posuere curae nisl, class. Semper quis, pellentesque maecenas justo augue primis est, \citep{eric_s._raymond_catedral_1998,karl_fogel_producir_2005} aenean aptent lorem. Pellentesque vestibulum ante ornare venenatis nonummy lacus. At pharetra \citep{garrido__2009}  nunc facilisi maecenas vitae elementum. Varius dictum, proin parturient viverra urna et. Nec. Justo porta praesent parturient dapibus duis pharetra. Consequat quis \citep[pp 4]{sadosky2013cc} primis vivamus platea ante cras phasellus et ligula aliquam aliquet. Malesuada donec dolor aenean sociis hac nibh eros pede \citep{builes_collaborative_2011}
 
-
+    \citet{john_iovine_robots_2002}
+    
+    \citep{eric_s._raymond_catedral_1998,karl_fogel_producir_2005}
+    
+    \citep{garrido__2009}
+    
+    \citep[pp 4]{sadosky2013cc}
 
 
 \bibliography{biblioteca/artbib}

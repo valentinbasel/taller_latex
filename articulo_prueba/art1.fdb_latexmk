@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex art1"] 1572289391 "art1.aux" "art1.bbl" "art1" 1572289391
+["bibtex art1"] 1572289391 "art1.aux" "art1.bbl" "art1" 1572442836
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1480098433 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "art1.aux" 1572289391 1765 169935101bb98f257f827be11770bace "pdflatex"
+  "art1.aux" 1572442835 1765 169935101bb98f257f827be11770bace "pdflatex"
   "biblioteca/artbib.bib" 1571420303 43999 c3cd9ccc0ac81f65bd82bbb86e50bf26 ""
   (generated)
   "art1.blg"
   "art1.bbl"
-["pdflatex"] 1572289391 "art1.tex" "art1.pdf" "art1" 1572289391
+["pdflatex"] 1572442835 "art1.tex" "art1.pdf" "art1" 1572442836
   "/home/vbasel/.texlive2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1532363640 720862 7da3d274268f445518d0e4619fb16013 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1534175731 1888239 1634854f38efe22f5ce23e01dbe546f0 ""
@@ -73,12 +73,12 @@
   "/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty" 1480098836 9581 023642318cef9f4677efe364de1e2a27 ""
   "/usr/share/texlive/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1541097551 32807 b0bf385e55c2928f0f920997ca426741 ""
-  "art1.aux" 1572289391 1765 169935101bb98f257f827be11770bace "pdflatex"
+  "art1.aux" 1572442835 1765 169935101bb98f257f827be11770bace "pdflatex"
   "art1.bbl" 1572289391 1416 6fb9809619667a658104945c41b44104 "bibtex art1"
-  "art1.out" 1572289391 50 b111389894c96eaeb574445520ad0411 "pdflatex"
-  "art1.tex" 1572289388 3138 db6ce5f5201a8788aa042ad73f95642a ""
+  "art1.out" 1572442835 50 b111389894c96eaeb574445520ad0411 "pdflatex"
+  "art1.tex" 1572442834 3138 db6ce5f5201a8788aa042ad73f95642a ""
   (generated)
   "art1.log"
-  "art1.aux"
   "art1.out"
   "art1.pdf"
+  "art1.aux"

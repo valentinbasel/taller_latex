@@ -414,7 +414,53 @@ Podemos gestionar nuestra base de datos de citas bibliográficas con zotero y lu
 \end{lstlisting}
 
 \end{frame}
+
+\begin{frame}
+\frametitle{y el resultado seria}
+
+John Iovine (2002)
+
+(Eric S. Raymond, 1998; Karl Fogel, 2005)
+
+(Garrido and Balaguer, 2009)
+
+(Sadosky, 2013, pp 4)
+
+\end{frame}
+
 %% frame de imagenes
+\begin{frame}
+\frametitle{como quedan las referencias bibliográficas}
+
+  \begin{figure}
+    \includegraphics[width=0.8\linewidth]{img/referencias.png}
+  \end{figure}
+\end{frame}
+
+% frame de imagenes
+\begin{frame}[fragile]
+\frametitle{FIN!!!!!!!!!!!!}
+
+\begin{center}
+\LARGE ¡GRACIAS!
+
+\end{center}
+\normalsize 
+
+valentinbasel@gmail.com
+
+\begin{lstlisting} 
+
+https://github.com/valentinbasel/taller_latex 
+
+\end{lstlisting}
+
+
+
+
+\end{frame}
+
+% frame de imagenes
 %\begin{frame}
 %\frametitle{}
 %
